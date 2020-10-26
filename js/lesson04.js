@@ -22,4 +22,10 @@
 // let kor = Math.sqrt(245)
 // console.log(kor.toFixed(2))
 
-v
+// задача 5
+// let arr = [4,2,5,19,13,0,10]
+// let sum = 0
+// for (let i = 0; i < arr.length; i++ ) {
+//     sum = sum + Math.pow(arr[i],3)
+// }
+// console.log(Math.sqrt(sum).toFixed(2))
