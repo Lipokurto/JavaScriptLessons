@@ -29,3 +29,8 @@
 //     sum = sum + Math.pow(arr[i],3)
 // }
 // console.log(Math.sqrt(sum).toFixed(2))
+
+// задача 6
+// console.log(Math.ceil(Math.sqrt(379)))
+// console.log(Math.sqrt(379).toFixed(1))
+// console.log(Math.sqrt(379).toFixed(2))
